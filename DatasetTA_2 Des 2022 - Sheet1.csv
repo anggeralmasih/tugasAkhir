@@ -1,0 +1,11 @@
+Ayam ngorok,Ayam bersin-bersin,Sulit bernafas,Kurang nafsu makan,Jengger berwarna biru,Sayap turun kelihatan kusam,Leher berputar ke arah bawah,Kotoran ayam berwarna putih,Ayam kelihatan mengantuk,Gerakan lambat,Bintik-bintik merah pada kaki,Keluar cairan pada mata,Ayam batuk,Keluar cairan pada rongga mulut,Ayam mati mendadak,Terjadi peradangan disekitar dubur,Ayam menjadi lesu,Badan demam,Keluar lendir dari hidung,Mata bengkak serta berair,Diare,Produksi telur menurun,Kepala bengkak,Mencret kehijau-hijauan,Sempoyongan,Nafas cepat,Badan kurus,Kedinginan,Mencret keputih-putihan,Tidur paruhnya diletakkan dilantai,Duduk dengan sikap membungkuk,Kelopak mata kemerahan,Pembengkakan dari sinus dan mata,Classes
+1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Flu burung (AI=Avian Influenza)
+0,0,0,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Penyakit Tetelo (ND=Newcastle Disease)
+1,1,1,0,1,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Berak kapur (Pullorum)
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Gumboro
+0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Snot (Infeksius Coryza)
+1,1,1,1,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Flu burung (AI=Avian Influenza)
+1,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,Penyakit Tetelo (ND=Newcastle Disease)
+0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,1,0,0,0,0,Berak kapur (Pullorum)
+0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,Gumboro
+0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1,Snot (Infeksius Coryza)
